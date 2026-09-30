@@ -60,7 +60,7 @@ pretty questionable way to structure most web apps, and I am fully aware
 of that.
 
 The decision is written down in
-[`docs/decisions/ADR-001-single-file-architecture.md`](docs/decisions/ADR-001-single-file-architecture.md),
+[`ADR-001-single-file-architecture.md`](ADR-001-single-file-architecture.md).
 
 ## FAQ
 
